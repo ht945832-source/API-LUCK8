@@ -1,0 +1,19 @@
+{
+  "name": "luck8-taixiu-api",
+  "version": "1.0.0",
+  "description": "Luck8 Tai Xiu Prediction API",
+  "main": "luck8.js",
+  "scripts": {
+    "start": "node luck8.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "author": "@tranhoang2286"
+}
